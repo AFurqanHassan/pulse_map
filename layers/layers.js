@@ -43,7 +43,7 @@ var map = new ol.Map({
     layers: layersList,
     view: new ol.View({
         center: [0, 0],
-        zoom: 2
+        zoom: 1
     })
 });
 
